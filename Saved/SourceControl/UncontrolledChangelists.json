@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/UI/WB_HealthBar.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset"
+			]
+		}
+	]
+}
