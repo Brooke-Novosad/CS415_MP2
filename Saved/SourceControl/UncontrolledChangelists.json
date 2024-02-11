@@ -13,10 +13,11 @@
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/UI/WB_Score.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
-				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
-				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset"
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset"
 			]
 		}
 	]
