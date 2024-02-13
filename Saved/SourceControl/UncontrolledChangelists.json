@@ -17,6 +17,14 @@
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/AIObject_PatrolPathPoint.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/AIBehavior.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/MyGameInstance.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/Tasks/BTTask_GetRandomLocation.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/BT_Pursuer.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/BB_Pursuer.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/Tasks/BTTask_GetRandomPatrolPoint.uasset",
+				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/Interface_GetPatrolPoint.uasset",
 				"C:/Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset"
 			]
 		}
