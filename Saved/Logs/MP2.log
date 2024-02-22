@@ -6578,3 +6578,1152 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.22-20.03.13:612][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 1.56 sec)
 [2024.02.22-20.03.13:624][ 37]AssetCheck: New page: Asset Save: MyMap
 [2024.02.22-20.03.13:624][ 37]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MyMap.MyMap
+[2024.02.22-20.04.32:333][872]LogDerivedDataCache: C:/Users/novosad3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.228 and deleted 0 files with total size 0 MiB. Scanned 4538 files in 4511 folders with total size 208 MiB.
+[2024.02.22-20.26.18:091][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.18:091][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.18:093][880]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_0
+[2024.02.22-20.26.18:096][880]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_0
+[2024.02.22-20.26.20:067][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.20:067][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.20:070][967]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_2
+[2024.02.22-20.26.20:072][967]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_2
+[2024.02.22-20.26.34:948][613]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.34:948][613]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.34:951][613]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_4
+[2024.02.22-20.26.34:952][613]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_4
+[2024.02.22-20.26.37:153][708]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.37:153][708]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.26.37:156][708]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_6
+[2024.02.22-20.26.37:158][708]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_6
+[2024.02.22-20.27.01:722][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.01:722][386]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.01:725][386]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_7
+[2024.02.22-20.27.01:727][386]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_7
+[2024.02.22-20.27.03:099][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.03:099][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.03:103][443]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_8
+[2024.02.22-20.27.03:104][443]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_8
+[2024.02.22-20.27.11:223][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.11:223][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.11:225][154]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_10
+[2024.02.22-20.27.11:227][154]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_10
+[2024.02.22-20.27.12:229][201]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.12:229][201]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.12:233][201]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_12
+[2024.02.22-20.27.12:234][201]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_12
+[2024.02.22-20.27.17:939][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.02.22-20.27.17:991][721]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/MyMap_Auto3
+[2024.02.22-20.27.17:992][721]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/MyMap_Auto3446DCCE44CFA46ABB077CFA9EDFE77D9.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/Autosaves/Game/LearningKit_Games/Maps/MyMap_Auto3.umap'
+[2024.02.22-20.27.17:995][721]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/MyMap' took 0.135
+[2024.02.22-20.27.17:995][721]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2024.02.22-20.27.18:791][791]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.18:791][791]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.18:793][791]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_13
+[2024.02.22-20.27.18:795][791]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_13
+[2024.02.22-20.27.20:677][878]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.20:677][878]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.20:680][878]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_15
+[2024.02.22-20.27.20:682][878]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_15
+[2024.02.22-20.27.23:916][162]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.23:916][162]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.23:917][162]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_17
+[2024.02.22-20.27.23:920][162]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_17
+[2024.02.22-20.27.25:604][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.25:604][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.25:607][238]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_19
+[2024.02.22-20.27.25:609][238]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_19
+[2024.02.22-20.27.45:576][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.45:576][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.45:578][336]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_21
+[2024.02.22-20.27.45:580][336]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_21
+[2024.02.22-20.27.46:582][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.46:582][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.46:585][373]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_22
+[2024.02.22-20.27.46:586][373]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_22
+[2024.02.22-20.27.50:752][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.50:752][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.50:754][751]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_23
+[2024.02.22-20.27.50:755][751]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_23
+[2024.02.22-20.27.53:711][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.53:711][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.27.53:713][877]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_24
+[2024.02.22-20.27.53:715][877]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_24
+[2024.02.22-20.28.01:317][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.01:318][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.01:319][536]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_25
+[2024.02.22-20.28.01:322][536]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_25
+[2024.02.22-20.28.02:332][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.02:332][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.02:335][579]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_26
+[2024.02.22-20.28.02:337][579]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_26
+[2024.02.22-20.28.11:693][428]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.11:693][428]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.11:695][428]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_27
+[2024.02.22-20.28.11:697][428]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_27
+[2024.02.22-20.28.14:875][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.14:875][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.14:879][571]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_28
+[2024.02.22-20.28.14:881][571]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_28
+[2024.02.22-20.28.18:684][919]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.18:684][919]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.18:686][919]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_29
+[2024.02.22-20.28.18:689][919]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_29
+[2024.02.22-20.28.20:500][  0]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.20:500][  0]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.28.20:503][  0]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_30
+[2024.02.22-20.28.20:505][  0]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_30
+[2024.02.22-20.28.45:067][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.45:067][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.45:069][580]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_0
+[2024.02.22-20.28.45:072][580]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_0
+[2024.02.22-20.28.46:299][632]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.46:299][632]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.46:302][632]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_1
+[2024.02.22-20.28.46:303][632]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_1
+[2024.02.22-20.28.51:001][ 32]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.51:001][ 32]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.51:003][ 32]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_2
+[2024.02.22-20.28.51:005][ 32]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_2
+[2024.02.22-20.28.52:889][115]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.52:889][115]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.52:892][115]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_3
+[2024.02.22-20.28.52:894][115]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_3
+[2024.02.22-20.28.56:787][451]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.56:787][451]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.56:789][451]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_4
+[2024.02.22-20.28.56:791][451]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_4
+[2024.02.22-20.28.58:411][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.58:411][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.28.58:413][512]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_5
+[2024.02.22-20.28.58:415][512]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_5
+[2024.02.22-20.29.15:593][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.29.15:593][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.29.15:595][105]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_6
+[2024.02.22-20.29.15:597][105]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_6
+[2024.02.22-20.29.16:467][144]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.29.16:467][144]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child_C
+[2024.02.22-20.29.16:470][144]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_7
+[2024.02.22-20.29.16:472][144]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.PowerUp_Pickup_BP_Child as actor: PowerUp_Pickup_BP_Child_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.PowerUp_Pickup_BP_Child_C_7
+[2024.02.22-20.29.36:354][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.36:354][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.36:356][893]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_31
+[2024.02.22-20.29.36:358][893]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_31
+[2024.02.22-20.29.37:447][941]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.37:447][941]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.37:449][941]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_32
+[2024.02.22-20.29.37:452][941]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_32
+[2024.02.22-20.29.40:565][225]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.40:565][225]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.40:567][225]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_33
+[2024.02.22-20.29.40:569][225]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_33
+[2024.02.22-20.29.42:398][308]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.42:398][308]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.42:402][308]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_34
+[2024.02.22-20.29.42:404][308]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_34
+[2024.02.22-20.29.56:642][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.56:642][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.56:644][568]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_35
+[2024.02.22-20.29.56:646][568]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_35
+[2024.02.22-20.29.57:607][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.57:607][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.29.57:609][608]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_36
+[2024.02.22-20.29.57:611][608]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_36
+[2024.02.22-20.30.08:466][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.08:466][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.08:468][602]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_37
+[2024.02.22-20.30.08:470][602]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_37
+[2024.02.22-20.30.09:326][635]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.09:326][635]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.09:329][635]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_38
+[2024.02.22-20.30.09:330][635]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_38
+[2024.02.22-20.30.26:443][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.26:443][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.26:445][267]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_39
+[2024.02.22-20.30.26:447][267]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_39
+[2024.02.22-20.30.27:346][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.27:346][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.27:348][309]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_40
+[2024.02.22-20.30.27:350][309]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_40
+[2024.02.22-20.30.47:943][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.47:943][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.47:945][258]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_41
+[2024.02.22-20.30.47:947][258]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_41
+[2024.02.22-20.30.48:811][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.48:811][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.30.48:815][290]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_42
+[2024.02.22-20.30.48:817][290]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_42
+[2024.02.22-20.31.00:072][324]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.00:072][324]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.00:074][324]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_43
+[2024.02.22-20.31.00:076][324]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_43
+[2024.02.22-20.31.01:437][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.01:437][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.01:440][384]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_44
+[2024.02.22-20.31.01:443][384]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_44
+[2024.02.22-20.31.46:766][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.46:766][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.46:768][484]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_45
+[2024.02.22-20.31.46:770][484]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_45
+[2024.02.22-20.31.49:107][594]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.49:107][594]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.31.49:110][594]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_46
+[2024.02.22-20.31.49:112][594]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_46
+[2024.02.22-20.32.06:131][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.32.06:131][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.32.06:133][247]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_47
+[2024.02.22-20.32.06:134][247]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_47
+[2024.02.22-20.32.06:888][283]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.32.06:888][283]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP_C
+[2024.02.22-20.32.06:891][283]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_48
+[2024.02.22-20.32.06:892][283]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP as actor: Collectable_Pickup_BP_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.Collectable_Pickup_BP_C_48
+[2024.02.22-20.33.01:970][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.02.22-20.33.03:286][250]LogSlate: Window 'Save Content' being destroyed
+[2024.02.22-20.33.03:294][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-20.33.03:448][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.22-20.33.03:510][250]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.33.03:511][250]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/MyMap72765D8147CD896681F60DAE82AD2200.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Maps/MyMap.umap'
+[2024.02.22-20.33.03:530][250]LogFileHelpers: Saving map 'MyMap' took 0.149
+[2024.02.22-20.33.03:536][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 1.80 sec)
+[2024.02.22-20.33.03:548][250]AssetCheck: New page: Asset Save: MyMap
+[2024.02.22-20.33.03:548][250]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MyMap.MyMap
+[2024.02.22-20.33.07:892][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.33.07:902][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.33.07:902][650]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:33:07 AM)
+[2024.02.22-20.33.07:902][650]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.33.07:917][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014948s)
+[2024.02.22-20.33.07:917][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014989s)
+[2024.02.22-20.33.07:918][650]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.33.07:918][650]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.33.07:918][650]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2024.02.22-20.33.07:986][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.22-20.33.07:987][650]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.33.07:987][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.33.07:987][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.33.07:988][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.33.07:988][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.33.07:988][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.33.07:991][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.33.08:009][650]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.33.08:009][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.33.08:009][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.33.08:009][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.33.08:011][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.02.22-20.33.08:011][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.02.22-20.33.08:013][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.02.22-20.33.08:013][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.02.22-20.33.08:013][650]LogInit: FAudioDevice initialized.
+[2024.02.22-20.33.08:013][650]LogAudio: Display: Audio Device (ID: 46) registered with world 'MyMap'.
+[2024.02.22-20.33.08:016][650]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.33.08:024][650]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.33.08
+[2024.02.22-20.33.08:024][650]LogWorld: Bringing up level for play took: 0.007923
+[2024.02.22-20.33.08:027][650]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.02.22-20.33.08:040][650]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.33.08:040][650]PIE: Server logged in
+[2024.02.22-20.33.08:041][650]PIE: Play in editor total start time 0.139 seconds.
+[2024.02.22-20.33.10:582][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.33.10:583][872]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.33.10:583][872]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.33.10:584][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.33.10:591][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.33.10:600][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.33.10:668][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.33.10:668][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.02.22-20.33.10:670][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.02.22-20.33.10:679][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.22-20.33.10:725][873]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.02.22-20.33.12:271][ 51]LogViewport: Scene viewport resized to 1409x465, mode Windowed.
+[2024.02.22-20.33.12:363][ 52]LogViewport: Scene viewport resized to 1409x501, mode Windowed.
+[2024.02.22-20.33.12:415][ 53]LogViewport: Scene viewport resized to 1409x522, mode Windowed.
+[2024.02.22-20.33.12:484][ 56]LogViewport: Scene viewport resized to 1409x568, mode Windowed.
+[2024.02.22-20.33.12:557][ 59]LogViewport: Scene viewport resized to 1409x588, mode Windowed.
+[2024.02.22-20.33.12:683][ 68]LogViewport: Scene viewport resized to 1409x611, mode Windowed.
+[2024.02.22-20.33.12:741][ 69]LogViewport: Scene viewport resized to 1409x617, mode Windowed.
+[2024.02.22-20.33.12:792][ 70]LogViewport: Scene viewport resized to 1409x621, mode Windowed.
+[2024.02.22-20.33.12:878][ 76]LogViewport: Scene viewport resized to 1409x631, mode Windowed.
+[2024.02.22-20.33.12:964][ 81]LogViewport: Scene viewport resized to 1409x633, mode Windowed.
+[2024.02.22-20.33.13:020][ 82]LogViewport: Scene viewport resized to 1409x637, mode Windowed.
+[2024.02.22-20.33.13:068][ 83]LogViewport: Scene viewport resized to 1409x647, mode Windowed.
+[2024.02.22-20.33.13:131][ 84]LogViewport: Scene viewport resized to 1409x655, mode Windowed.
+[2024.02.22-20.33.13:192][ 85]LogViewport: Scene viewport resized to 1409x665, mode Windowed.
+[2024.02.22-20.33.13:283][ 89]LogViewport: Scene viewport resized to 1409x668, mode Windowed.
+[2024.02.22-20.33.14:367][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.33.14:378][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.33.14:378][210]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:33:14 AM)
+[2024.02.22-20.33.14:378][210]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.33.14:394][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015392s)
+[2024.02.22-20.33.14:394][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.015432s)
+[2024.02.22-20.33.14:394][210]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.33.14:394][210]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.33.14:394][210]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2024.02.22-20.33.14:461][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.22-20.33.14:463][210]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.33.14:463][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.33.14:463][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.33.14:464][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.33.14:464][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.33.14:464][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.33.14:466][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.33.14:479][210]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.33.14:479][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.33.14:479][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.33.14:479][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.33.14:481][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.02.22-20.33.14:481][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.02.22-20.33.14:483][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.02.22-20.33.14:483][210]LogInit: FAudioDevice initialized.
+[2024.02.22-20.33.14:483][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.02.22-20.33.14:483][210]LogAudio: Display: Audio Device (ID: 47) registered with world 'MyMap'.
+[2024.02.22-20.33.14:485][210]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.33.14:492][210]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.33.14
+[2024.02.22-20.33.14:493][210]LogWorld: Bringing up level for play took: 0.007670
+[2024.02.22-20.33.14:496][210]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.02.22-20.33.14:509][210]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.33.14:509][210]PIE: Server logged in
+[2024.02.22-20.33.14:509][210]PIE: Play in editor total start time 0.132 seconds.
+[2024.02.22-20.33.41:550][808]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.33.41:550][808]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.33.41:550][808]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.33.41:563][809]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_0' was already added to the screen.
+[2024.02.22-20.33.41:563][809]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.33.41:563][809]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.33.42:862][935]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.33.42:862][935]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.33.42:862][935]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.33.42:863][935]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.33.42:865][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.33.42:970][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.33.42:976][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.22-20.33.42:980][935]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.33.42:995][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014922s)
+[2024.02.22-20.33.42:995][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014976s)
+[2024.02.22-20.33.42:995][935]LogAudio: Display: Audio Device (ID: 47) registered with world 'MyMap'.
+[2024.02.22-20.33.42:995][935]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.33.42:995][935]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.33.42:996][935]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2024.02.22-20.33.42:996][935]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.33.43:001][935]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.33.43
+[2024.02.22-20.33.43:002][935]LogWorld: Bringing up level for play took: 0.005951
+[2024.02.22-20.33.43:014][935]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.33.43:014][935]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.33.43:014][935]LogLoad: Took 0.152972 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.34.28:297][323]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.34.28:297][323]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.34.28:297][323]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.34.28:297][323]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_1' was already added to the screen.
+[2024.02.22-20.34.28:297][323]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.34.28:297][323]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.34.29:342][427]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.34.29:342][427]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.34.29:342][427]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.34.29:343][427]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.34.29:345][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.34.29:462][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.34.29:468][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.22-20.34.29:472][427]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.34.29:487][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014501s)
+[2024.02.22-20.34.29:487][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014556s)
+[2024.02.22-20.34.29:487][427]LogAudio: Display: Audio Device (ID: 47) registered with world 'MyMap'.
+[2024.02.22-20.34.29:487][427]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.34.29:487][427]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.34.29:487][427]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.02.22-20.34.29:487][427]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.34.29:493][427]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.34.29
+[2024.02.22-20.34.29:493][427]LogWorld: Bringing up level for play took: 0.005705
+[2024.02.22-20.34.29:506][427]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.34.29:506][427]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.34.29:506][427]LogLoad: Took 0.163668 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.35.04:712][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.35.04:712][879]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.35.04:713][879]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.35.04:715][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.35.04:722][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.35.04:731][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.35.04:799][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.35.04:802][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.02.22-20.35.04:804][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.02.22-20.35.04:814][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.22-20.35.04:861][880]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.02.22-20.35.26:378][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.35.26:389][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.35.26:389][450]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:35:26 AM)
+[2024.02.22-20.35.26:390][450]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.35.26:405][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015963s)
+[2024.02.22-20.35.26:405][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.016003s)
+[2024.02.22-20.35.26:405][450]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.35.26:406][450]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.35.26:406][450]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2024.02.22-20.35.26:476][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.22-20.35.26:479][450]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.35.26:479][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.35.26:479][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.35.26:480][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.35.26:480][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.35.26:480][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.35.26:482][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.35.26:496][450]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.35.26:496][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.35.26:496][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.35.26:496][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.35.26:497][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.02.22-20.35.26:497][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.02.22-20.35.26:500][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.02.22-20.35.26:500][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.02.22-20.35.26:500][450]LogInit: FAudioDevice initialized.
+[2024.02.22-20.35.26:500][450]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.35.26:503][450]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.35.26:510][450]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.35.26
+[2024.02.22-20.35.26:511][450]LogWorld: Bringing up level for play took: 0.007911
+[2024.02.22-20.35.26:513][450]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.02.22-20.35.26:526][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.35.26:526][450]PIE: Server logged in
+[2024.02.22-20.35.26:527][450]PIE: Play in editor total start time 0.138 seconds.
+[2024.02.22-20.36.33:682][846]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.36.33:682][846]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.36.33:682][846]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.36.33:694][847]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_0' was already added to the screen.
+[2024.02.22-20.36.33:694][847]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.36.33:694][847]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.36.35:440][ 13]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.36.35:440][ 13]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.36.35:440][ 13]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.36.35:441][ 13]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.36.35:443][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.36.35:512][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.36.35:518][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.02.22-20.36.35:522][ 13]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.36.35:537][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014839s)
+[2024.02.22-20.36.35:537][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014898s)
+[2024.02.22-20.36.35:537][ 13]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.36.35:537][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.36.35:537][ 13]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.36.35:538][ 13]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2024.02.22-20.36.35:538][ 13]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.36.35:543][ 13]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.36.35
+[2024.02.22-20.36.35:544][ 13]LogWorld: Bringing up level for play took: 0.006128
+[2024.02.22-20.36.35:557][ 13]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.36.35:557][ 13]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.36.35:557][ 13]LogLoad: Took 0.118105 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.36.55:054][886]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.36.55:054][886]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.36.55:054][886]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.36.55:064][887]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_1' was already added to the screen.
+[2024.02.22-20.36.55:064][887]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.36.55:064][887]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.36.56:000][978]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.36.56:000][978]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.36.56:000][978]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.36.56:001][978]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.36.56:002][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.36.56:098][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.36.56:105][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.22-20.36.56:108][978]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.36.56:123][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014552s)
+[2024.02.22-20.36.56:123][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014605s)
+[2024.02.22-20.36.56:123][978]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.36.56:123][978]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.36.56:123][978]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.36.56:124][978]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2024.02.22-20.36.56:124][978]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.36.56:129][978]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.36.56
+[2024.02.22-20.36.56:130][978]LogWorld: Bringing up level for play took: 0.005798
+[2024.02.22-20.36.56:142][978]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.36.56:142][978]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.36.56:142][978]LogLoad: Took 0.142767 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.37.15:184][834]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.37.15:184][834]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.37.15:184][834]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.37.15:195][835]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_2' was already added to the screen.
+[2024.02.22-20.37.15:195][835]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.37.15:195][835]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.37.16:347][949]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.37.16:347][949]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.37.16:347][949]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.37.16:348][949]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.37.16:350][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.37.16:441][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.37.16:447][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.02.22-20.37.16:450][949]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.37.16:464][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014542s)
+[2024.02.22-20.37.16:464][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014594s)
+[2024.02.22-20.37.16:464][949]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.37.16:465][949]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.37.16:465][949]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.37.16:465][949]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2024.02.22-20.37.16:465][949]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.37.16:471][949]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.37.16
+[2024.02.22-20.37.16:472][949]LogWorld: Bringing up level for play took: 0.006241
+[2024.02.22-20.37.16:485][949]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.37.16:485][949]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.37.16:485][949]LogLoad: Took 0.138148 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.38.09:331][ 28]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.38.09:331][ 28]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.38.09:331][ 28]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.38.10:560][152]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.38.10:560][152]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.38.10:560][152]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.38.10:561][152]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.38.10:564][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.38.10:660][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.38.10:666][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.02.22-20.38.10:670][152]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.38.10:685][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014699s)
+[2024.02.22-20.38.10:685][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014752s)
+[2024.02.22-20.38.10:685][152]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.38.10:685][152]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.38.10:685][152]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.38.10:686][152]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2024.02.22-20.38.10:686][152]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.38.10:690][152]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.38.10
+[2024.02.22-20.38.10:691][152]LogWorld: Bringing up level for play took: 0.005767
+[2024.02.22-20.38.10:704][152]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.38.10:704][152]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.38.10:704][152]LogLoad: Took 0.143934 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.40.20:968][775]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.40.20:968][775]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.40.20:968][775]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.40.22:221][896]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.40.22:221][896]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.40.22:221][896]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.40.22:222][896]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.40.22:226][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.40.22:335][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.40.22:341][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.02.22-20.40.22:346][896]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.40.22:362][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014831s)
+[2024.02.22-20.40.22:362][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014885s)
+[2024.02.22-20.40.22:362][896]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.40.22:362][896]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.40.22:362][896]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.40.22:362][896]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2024.02.22-20.40.22:362][896]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.40.22:367][896]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.40.22
+[2024.02.22-20.40.22:368][896]LogWorld: Bringing up level for play took: 0.005619
+[2024.02.22-20.40.22:382][896]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.40.22:382][896]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.40.22:382][896]LogLoad: Took 0.160438 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.41.46:240][ 14]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.41.46:240][ 14]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.41.46:240][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.41.46:240][ 14]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_5' was already added to the screen.
+[2024.02.22-20.41.46:240][ 14]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.41.46:240][ 14]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.41.47:673][154]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.41.47:673][154]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.41.47:673][154]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.41.47:674][154]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.41.47:677][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.41.47:773][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.41.47:778][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.22-20.41.47:783][154]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.41.47:797][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014837s)
+[2024.02.22-20.41.47:797][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.014893s)
+[2024.02.22-20.41.47:797][154]LogAudio: Display: Audio Device (ID: 48) registered with world 'MyMap'.
+[2024.02.22-20.41.47:797][154]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.41.47:798][154]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.41.47:798][154]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2024.02.22-20.41.47:798][154]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.41.47:805][154]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.41.47
+[2024.02.22-20.41.47:805][154]LogWorld: Bringing up level for play took: 0.006275
+[2024.02.22-20.41.47:819][154]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.41.47:819][154]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.41.47:819][154]LogLoad: Took 0.145443 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.41.51:023][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.41.51:023][461]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.41.51:023][461]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.41.51:025][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.41.51:032][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.41.51:040][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.41.51:110][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.41.51:110][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.02.22-20.41.51:113][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.02.22-20.41.51:124][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.22-20.41.51:172][462]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.02.22-20.42.15:051][265]BlueprintLog: New page: Compile BP_Mortar
+[2024.02.22-20.42.15:243][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.22-20.42.21:009][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.42.21:020][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.42.21:020][792]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:42:21 AM)
+[2024.02.22-20.42.21:020][792]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.42.21:034][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015028s)
+[2024.02.22-20.42.21:034][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.015067s)
+[2024.02.22-20.42.21:035][792]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.42.21:035][792]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.42.21:035][792]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2024.02.22-20.42.21:104][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.22-20.42.21:107][792]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.42.21:107][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.42.21:107][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.42.21:107][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.42.21:107][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.42.21:107][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.42.21:110][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.42.21:127][792]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.42.21:127][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.42.21:127][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.42.21:127][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.42.21:128][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.02.22-20.42.21:128][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2024.02.22-20.42.21:130][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.02.22-20.42.21:130][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.02.22-20.42.21:130][792]LogInit: FAudioDevice initialized.
+[2024.02.22-20.42.21:130][792]LogAudio: Display: Audio Device (ID: 49) registered with world 'MyMap'.
+[2024.02.22-20.42.21:133][792]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.42.21:140][792]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.42.21
+[2024.02.22-20.42.21:141][792]LogWorld: Bringing up level for play took: 0.007222
+[2024.02.22-20.42.21:144][792]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.02.22-20.42.21:157][792]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.42.21:157][792]PIE: Server logged in
+[2024.02.22-20.42.21:158][792]PIE: Play in editor total start time 0.139 seconds.
+[2024.02.22-20.43.35:638][703]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.43.35:638][703]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.43.35:638][703]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.43.35:649][704]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_0' was already added to the screen.
+[2024.02.22-20.43.35:649][704]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.43.35:649][704]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.43.36:792][813]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.43.36:792][813]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.43.36:792][813]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.43.36:793][813]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.43.36:798][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.43.36:901][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.43.36:906][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.22-20.43.36:912][813]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.43.36:927][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015017s)
+[2024.02.22-20.43.36:927][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.015071s)
+[2024.02.22-20.43.36:927][813]LogAudio: Display: Audio Device (ID: 49) registered with world 'MyMap'.
+[2024.02.22-20.43.36:927][813]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.43.36:927][813]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.43.36:928][813]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2024.02.22-20.43.36:928][813]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.43.36:933][813]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.43.36
+[2024.02.22-20.43.36:934][813]LogWorld: Bringing up level for play took: 0.005699
+[2024.02.22-20.43.36:947][813]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.43.36:947][813]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.43.36:947][813]LogLoad: Took 0.154434 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.43.39:183][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.43.39:183][ 23]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.43.39:183][ 23]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.43.39:185][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.43.39:210][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.43.39:218][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.43.39:286][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.43.39:286][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.02.22-20.43.39:288][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.02.22-20.43.39:293][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.43.39:299][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.02.22-20.43.39:347][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.02.22-20.44.50:220][331]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.02.22-20.44.50:220][331]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.02.22-20.44.50:221][331]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.NavMeshBoundsVolume_2
+[2024.02.22-20.44.50:222][331]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.NavMeshBoundsVolume_2
+[2024.02.22-20.44.50:535][342]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.44.54:504][612]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.06:362][601]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.09:320][870]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.10:653][983]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.13:741][253]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.25:342][475]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.29:876][  5]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.33:676][450]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.40:695][264]Cmd: TRANSACTION UNDO
+[2024.02.22-20.45.40:695][264]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.22-20.45.41:968][344]Cmd: TRANSACTION UNDO
+[2024.02.22-20.45.41:968][344]LogEditorTransaction: Undo Set Location
+[2024.02.22-20.45.42:080][345]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.42:822][434]Cmd: TRANSACTION UNDO
+[2024.02.22-20.45.42:822][434]LogEditorTransaction: Undo Set Location
+[2024.02.22-20.45.42:927][435]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.44:512][614]Cmd: TRANSACTION UNDO
+[2024.02.22-20.45.44:512][614]LogEditorTransaction: Undo Set Location
+[2024.02.22-20.45.44:697][615]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.48:274][985]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.55:236][718]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.45.59:631][154]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.46.02:782][509]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.46.21:119][419]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.46.30:263][314]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.46.41:141][580]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.46.48:928][272]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.02:224][666]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.04:948][978]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.07:041][218]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.09:544][507]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.15:623][116]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.19:836][558]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.24:206][ 60]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.26:391][311]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.28:382][539]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.35:587][392]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.39:371][835]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.47.53:149][159]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.48.00:334][782]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.48.28:051][459]LogViewport: Scene viewport resized to 1409x655, mode Windowed.
+[2024.02.22-20.48.28:177][460]LogViewport: Scene viewport resized to 1409x557, mode Windowed.
+[2024.02.22-20.48.28:248][461]LogViewport: Scene viewport resized to 1409x522, mode Windowed.
+[2024.02.22-20.48.28:311][462]LogViewport: Scene viewport resized to 1409x507, mode Windowed.
+[2024.02.22-20.48.28:364][463]LogViewport: Scene viewport resized to 1409x491, mode Windowed.
+[2024.02.22-20.48.28:417][465]LogViewport: Scene viewport resized to 1409x485, mode Windowed.
+[2024.02.22-20.48.28:474][467]LogViewport: Scene viewport resized to 1409x480, mode Windowed.
+[2024.02.22-20.48.28:546][471]LogViewport: Scene viewport resized to 1409x477, mode Windowed.
+[2024.02.22-20.48.28:601][472]LogViewport: Scene viewport resized to 1409x474, mode Windowed.
+[2024.02.22-20.48.28:703][480]LogViewport: Scene viewport resized to 1409x472, mode Windowed.
+[2024.02.22-20.48.28:757][481]LogViewport: Scene viewport resized to 1409x467, mode Windowed.
+[2024.02.22-20.48.28:805][482]LogViewport: Scene viewport resized to 1409x459, mode Windowed.
+[2024.02.22-20.48.28:850][483]LogViewport: Scene viewport resized to 1409x454, mode Windowed.
+[2024.02.22-20.48.29:311][534]LogViewport: Scene viewport resized to 1409x458, mode Windowed.
+[2024.02.22-20.48.29:398][535]LogViewport: Scene viewport resized to 1409x464, mode Windowed.
+[2024.02.22-20.48.29:446][536]LogViewport: Scene viewport resized to 1409x468, mode Windowed.
+[2024.02.22-20.48.29:514][540]LogViewport: Scene viewport resized to 1409x472, mode Windowed.
+[2024.02.22-20.48.29:568][541]LogViewport: Scene viewport resized to 1409x473, mode Windowed.
+[2024.02.22-20.48.29:614][542]LogViewport: Scene viewport resized to 1409x478, mode Windowed.
+[2024.02.22-20.48.29:658][543]LogViewport: Scene viewport resized to 1409x482, mode Windowed.
+[2024.02.22-20.48.29:810][557]LogViewport: Scene viewport resized to 1409x486, mode Windowed.
+[2024.02.22-20.48.38:575][521]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy_C
+[2024.02.22-20.48.38:575][521]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy_C
+[2024.02.22-20.48.38:578][521]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Enemy_C_0
+[2024.02.22-20.48.38:579][521]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Enemy_C_0
+[2024.02.22-20.48.40:852][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy_C
+[2024.02.22-20.48.40:852][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy_C
+[2024.02.22-20.48.40:856][628]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Enemy_C_2
+[2024.02.22-20.48.40:857][628]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Enemy_C_2
+[2024.02.22-20.51.29:789][163]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar_C
+[2024.02.22-20.51.29:789][163]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar_C
+[2024.02.22-20.51.29:792][163]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Mortar_C_0
+[2024.02.22-20.51.29:794][163]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Mortar_C_0
+[2024.02.22-20.51.31:151][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar_C
+[2024.02.22-20.51.31:151][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar_C
+[2024.02.22-20.51.31:154][212]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Mortar_C_2
+[2024.02.22-20.51.31:156][212]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.BP_Mortar_C_2
+[2024.02.22-20.51.31:264][213]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.32:522][336]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.32:621][344]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.32:775][359]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.33:085][384]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.33:149][388]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.33:228][394]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.33:314][401]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.33:426][411]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.33:652][430]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.34:033][467]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.34:632][526]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.51.50:954][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Enemy.BP_Enemy
+[2024.02.22-20.51.50:954][382]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.52.15:646][393]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.52.18:633][694]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.52.19:154][743]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-20.53.54:955][327]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Pursuer.BP_Pursuer
+[2024.02.22-20.53.54:955][327]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: ================================================
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Total job queries 219, among them cache hits 26 (11.87%)
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 138 distinct outputs (74.59%)
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: RAM used: 1.47 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Shaders Compiled: 16
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100.00%)
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Average time worker was idle: 357.71 s
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 2.77 s
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Job execution time: average 1.53 s, max 2.70 s
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Job life time (pending + execution): average 1.91 s, max 4.08
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.79 s
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Average processing rate: 1.82 jobs/sec
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Total thread time: 18.82 s
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Total thread preprocess time: 0.76 s
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Percentage time preprocessing: 4.02%
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Effective parallelization: 2.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.57 sec, max 1.96 sec, min 0.76 sec)
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 1.29 sec, max 1.41 sec, min 1.18 sec)
+[2024.02.22-20.53.55:767][329]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 0.85 sec, min 0.80 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.56 sec, max 0.67 sec, min 0.44 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.18% of total time (compiled    6 times, average 1.57 sec, max 1.96 sec, min 0.76 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 27.52% of total time (compiled    4 times, average 1.29 sec, max 1.41 sec, min 1.18 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.73% of total time (compiled    2 times, average 0.82 sec, max 0.85 sec, min 0.80 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.66% of total time (compiled    2 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.91% of total time (compiled    2 times, average 0.56 sec, max 0.67 sec, min 0.44 sec)
+[2024.02.22-20.53.55:768][329]LogShaderCompilers: Display: ================================================
+[2024.02.22-20.53.59:004][445]LogViewport: Scene viewport resized to 984x641, mode Windowed.
+[2024.02.22-20.54.20:583][646]LogEditorTransaction: Undo Set Scale
+[2024.02.22-20.54.21:460][667]LogEditorTransaction: Undo Set Scale
+[2024.02.22-20.54.56:553][735]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.54.56:564][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.54.56:565][735]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:54:56 AM)
+[2024.02.22-20.54.56:565][735]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.54.56:581][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016010s)
+[2024.02.22-20.54.56:581][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.016053s)
+[2024.02.22-20.54.56:581][735]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.54.56:581][735]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.54.56:582][735]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2024.02.22-20.54.56:681][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.02.22-20.54.56:683][735]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.54.56:683][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.54.56:683][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.54.56:684][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.54.56:684][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.54.56:684][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.54.56:687][735]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.54.56:705][735]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.54.56:705][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.54.56:705][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.54.56:705][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.54.56:706][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.02.22-20.54.56:706][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.02.22-20.54.56:708][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.02.22-20.54.56:708][735]LogInit: FAudioDevice initialized.
+[2024.02.22-20.54.56:708][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.02.22-20.54.56:708][735]LogAudio: Display: Audio Device (ID: 50) registered with world 'MyMap'.
+[2024.02.22-20.54.56:711][735]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.54.56:719][735]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.54.56
+[2024.02.22-20.54.56:720][735]LogWorld: Bringing up level for play took: 0.008968
+[2024.02.22-20.54.56:723][735]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.02.22-20.54.56:736][735]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.54.56:736][735]PIE: Server logged in
+[2024.02.22-20.54.56:737][735]PIE: Play in editor total start time 0.173 seconds.
+[2024.02.22-20.56.00:275][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.56.00:275][266]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.56.00:275][266]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.56.00:283][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.56.00:330][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.56.00:340][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.56.00:425][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.56.00:427][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.02.22-20.56.00:429][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.02.22-20.56.00:433][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.56.00:441][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.22-20.56.00:532][267]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.02.22-20.56.01:825][395]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.56.01:836][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.56.01:836][395]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:56:01 AM)
+[2024.02.22-20.56.01:836][395]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.56.01:852][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016658s)
+[2024.02.22-20.56.01:852][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.016697s)
+[2024.02.22-20.56.01:853][395]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.56.01:853][395]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.56.01:853][395]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2024.02.22-20.56.01:936][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.22-20.56.01:939][395]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.56.01:939][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.56.01:939][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.56.01:940][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.56.01:940][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.56.01:940][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.56.01:942][395]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.56.01:955][395]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.56.01:956][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.56.01:956][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.56.01:956][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.56.01:956][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.02.22-20.56.01:956][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.02.22-20.56.01:958][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.02.22-20.56.01:958][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.02.22-20.56.01:958][395]LogInit: FAudioDevice initialized.
+[2024.02.22-20.56.01:958][395]LogAudio: Display: Audio Device (ID: 51) registered with world 'MyMap'.
+[2024.02.22-20.56.01:961][395]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.56.01:970][395]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.56.01
+[2024.02.22-20.56.01:971][395]LogWorld: Bringing up level for play took: 0.009111
+[2024.02.22-20.56.01:973][395]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.02.22-20.56.01:986][395]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.56.01:987][395]PIE: Server logged in
+[2024.02.22-20.56.01:988][395]PIE: Play in editor total start time 0.153 seconds.
+[2024.02.22-20.57.09:700][655]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.57.09:700][655]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.57.09:700][655]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.57.09:710][656]LogScript: Warning: Script Msg: The widget 'WB_GameOver_C_0' was already added to the screen.
+[2024.02.22-20.57.09:711][656]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayGameOver
+
+[2024.02.22-20.57.09:711][656]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.57.14:129][ 76]LogNet: Browse: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.57.14:129][ 76]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.57.14:130][ 76]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.57.14:131][ 76]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.57.14:137][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.57.14:264][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-20.57.14:271][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.02.22-20.57.14:277][ 76]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.57.14:293][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015821s)
+[2024.02.22-20.57.14:293][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.015874s)
+[2024.02.22-20.57.14:293][ 76]LogAudio: Display: Audio Device (ID: 51) registered with world 'MyMap'.
+[2024.02.22-20.57.14:293][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.57.14:294][ 76]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.57.14:294][ 76]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.02.22-20.57.14:294][ 76]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.57.14:300][ 76]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.57.14
+[2024.02.22-20.57.14:301][ 76]LogWorld: Bringing up level for play took: 0.006993
+[2024.02.22-20.57.14:314][ 76]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.22-20.57.14:314][ 76]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.22-20.57.14:314][ 76]LogLoad: Took 0.184487 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_MyMap)
+[2024.02.22-20.58.27:605][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.58.27:605][769]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.58.27:606][769]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.58.27:616][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.58.27:624][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.58.27:633][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.58.27:724][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.58.27:725][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.02.22-20.58.27:727][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.02.22-20.58.27:740][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.22-20.58.27:832][770]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.02.22-20.58.29:571][946]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-20.58.29:582][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-20.58.29:582][946]PIE: New page: PIE session: MyMap (Feb 22, 2024, 8:58:29 AM)
+[2024.02.22-20.58.29:582][946]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.58.29:599][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016151s)
+[2024.02.22-20.58.29:599][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.016192s)
+[2024.02.22-20.58.29:599][946]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-20.58.29:600][946]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-20.58.29:600][946]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2024.02.22-20.58.29:687][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.22-20.58.29:690][946]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.02.22-20.58.29:690][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-20.58.29:690][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-20.58.29:690][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-20.58.29:690][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-20.58.29:690][946]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-20.58.29:690][946]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-20.58.29:691][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-20.58.29:691][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-20.58.29:692][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-20.58.29:692][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-20.58.29:692][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-20.58.29:695][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-20.58.29:712][946]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-20.58.29:713][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-20.58.29:713][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-20.58.29:713][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-20.58.29:713][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.02.22-20.58.29:713][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.02.22-20.58.29:715][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.02.22-20.58.29:715][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.02.22-20.58.29:715][946]LogInit: FAudioDevice initialized.
+[2024.02.22-20.58.29:715][946]LogAudio: Display: Audio Device (ID: 52) registered with world 'MyMap'.
+[2024.02.22-20.58.29:718][946]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-20.58.29:726][946]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-14.58.29
+[2024.02.22-20.58.29:727][946]LogWorld: Bringing up level for play took: 0.009158
+[2024.02.22-20.58.29:730][946]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.02.22-20.58.29:743][946]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-20.58.29:743][946]PIE: Server logged in
+[2024.02.22-20.58.29:744][946]PIE: Play in editor total start time 0.162 seconds.
+[2024.02.22-20.59.39:692][229]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:692][229]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.22-20.59.39:692][229]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.22-20.59.39:704][230]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:704][230]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:704][230]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:715][231]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:715][231]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:715][231]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:727][232]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:727][232]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:727][232]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:739][233]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:739][233]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:739][233]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:751][234]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:751][234]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:751][234]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:765][235]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:765][235]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:765][235]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:774][236]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:774][236]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:775][236]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:788][237]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:788][237]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:788][237]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:798][238]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:799][238]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:799][238]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:810][239]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:810][239]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:810][239]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:821][240]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:821][240]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:821][240]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:832][241]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:832][241]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:832][241]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:843][242]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:843][242]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:843][242]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:854][243]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:854][243]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:854][243]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:864][244]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:864][244]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:864][244]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:875][245]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:875][245]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:875][245]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:885][246]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:885][246]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:885][246]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:899][247]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:899][247]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:899][247]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:912][248]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:912][248]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:912][248]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:921][249]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:921][249]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:921][249]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:934][250]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:934][250]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:934][250]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:947][251]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:947][251]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:947][251]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:958][252]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:959][252]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:959][252]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:970][253]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:970][253]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:970][253]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:980][254]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:980][254]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:980][254]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.39:991][255]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.39:992][255]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.39:992][255]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.40:002][256]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.40:002][256]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.40:002][256]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.40:014][257]LogScript: Warning: Script Msg: The widget 'WB_LevelComplete_C_0' was already added to the screen.
+[2024.02.22-20.59.40:014][257]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter_C.DisplayLevelComplete
+
+[2024.02.22-20.59.40:014][257]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2024.02.22-20.59.41:865][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.59.41:866][417]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-20.59.41:866][417]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-20.59.41:876][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.59.41:884][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-20.59.41:893][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-20.59.41:978][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-20.59.41:980][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.02.22-20.59.41:982][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.02.22-20.59.41:993][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.22-20.59.42:074][418]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.02.22-20.59.43:736][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.02.22-20.59.44:948][572]LogSlate: Window 'Save Content' being destroyed
+[2024.02.22-20.59.44:956][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-20.59.45:123][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.22-20.59.45:191][572]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-20.59.45:192][572]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/MyMap4CB07F144250469B294ADCAE1199C04E.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Maps/MyMap.umap'
+[2024.02.22-20.59.45:211][572]LogFileHelpers: Saving map 'MyMap' took 0.172
+[2024.02.22-20.59.45:294][572]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/BP_Mortar
+[2024.02.22-20.59.45:295][572]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/BP_MortarBD181C3F4801CEC7D88555A709B2A45B.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/BP_Mortar.uasset'
+[2024.02.22-20.59.45:396][572]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/BP_Pursuer
+[2024.02.22-20.59.45:397][572]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/BP_Pursuer004B0402492229AFC7BDA0BFBAF28CCB.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset'
+[2024.02.22-20.59.45:405][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 2.25 sec)
+[2024.02.22-20.59.45:419][572]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.22-20.59.45:419][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Mortar.BP_Mortar
+[2024.02.22-20.59.45:419][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Pursuer.BP_Pursuer
+[2024.02.22-20.59.45:419][572]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MyMap.MyMap
