@@ -2800,3 +2800,313 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.22-16.32.33:297][462]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.22-16.32.33:297][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/AI/BP_Projectile.BP_Projectile
 [2024.02.22-16.32.33:297][462]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MyMap.MyMap
+[2024.02.22-16.40.48:043][292]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_C.SM_Cloud_C
+[2024.02.22-16.40.48:044][292]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_C.SM_Cloud_C
+[2024.02.22-16.40.48:044][292]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_C.SM_Cloud_C as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_0
+[2024.02.22-16.40.50:011][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_C.SM_Cloud_C
+[2024.02.22-16.40.50:011][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_C.SM_Cloud_C
+[2024.02.22-16.40.50:013][378]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_C.SM_Cloud_C as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_3
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: ================================================
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: Total job queries 157, among them cache hits 14 (8.92%)
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 112 distinct outputs (78.32%)
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: RAM used: 1.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.22-16.40.50:154][380]LogShaderCompilers: Display: ================================================
+[2024.02.22-16.42.51:810][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-16.42.51:821][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.42.51:821][587]PIE: New page: PIE session: MyMap (Feb 22, 2024, 4:42:51 AM)
+[2024.02.22-16.42.51:821][587]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.42.51:830][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008991s)
+[2024.02.22-16.42.51:830][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.009035s)
+[2024.02.22-16.42.51:831][587]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-16.42.51:831][587]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-16.42.51:831][587]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2024.02.22-16.42.51:896][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.22-16.42.51:898][587]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.02.22-16.42.51:898][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.42.51:898][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.42.51:898][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.42.51:899][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.42.51:899][587]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-16.42.51:899][587]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-16.42.51:899][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-16.42.51:899][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.42.51:899][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-16.42.51:899][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-16.42.51:899][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-16.42.51:903][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-16.42.51:919][587]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-16.42.51:920][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.42.51:920][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.42.51:920][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.42.51:920][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.02.22-16.42.51:921][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.02.22-16.42.51:922][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.02.22-16.42.51:922][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.02.22-16.42.51:922][587]LogInit: FAudioDevice initialized.
+[2024.02.22-16.42.51:922][587]LogAudio: Display: Audio Device (ID: 24) registered with world 'MyMap'.
+[2024.02.22-16.42.51:925][587]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-16.42.51:930][587]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-10.42.51
+[2024.02.22-16.42.51:930][587]LogWorld: Bringing up level for play took: 0.004738
+[2024.02.22-16.42.51:933][587]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.22-16.42.51:946][587]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-16.42.51:946][587]PIE: Server logged in
+[2024.02.22-16.42.51:947][587]PIE: Play in editor total start time 0.126 seconds.
+[2024.02.22-16.43.13:337][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.43.13:337][617]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.43.13:338][617]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.43.13:339][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.43.13:342][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.43.13:352][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.43.13:410][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.43.13:411][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.02.22-16.43.13:413][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.02.22-16.43.13:423][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.22-16.43.13:479][618]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.22-16.43.47:398][536]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-16.43.47:410][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.43.47:410][536]PIE: New page: PIE session: MyMap (Feb 22, 2024, 4:43:47 AM)
+[2024.02.22-16.43.47:410][536]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.43.47:419][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008437s)
+[2024.02.22-16.43.47:419][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.008479s)
+[2024.02.22-16.43.47:419][536]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-16.43.47:420][536]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-16.43.47:420][536]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2024.02.22-16.43.47:480][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.22-16.43.47:482][536]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-16.43.47:482][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-16.43.47:482][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.43.47:483][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-16.43.47:483][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-16.43.47:483][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-16.43.47:485][536]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-16.43.47:499][536]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-16.43.47:499][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.43.47:499][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.43.47:499][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.43.47:500][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.02.22-16.43.47:500][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.02.22-16.43.47:502][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.02.22-16.43.47:502][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.02.22-16.43.47:502][536]LogInit: FAudioDevice initialized.
+[2024.02.22-16.43.47:502][536]LogAudio: Display: Audio Device (ID: 25) registered with world 'MyMap'.
+[2024.02.22-16.43.47:505][536]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-16.43.47:508][536]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-10.43.47
+[2024.02.22-16.43.47:508][536]LogWorld: Bringing up level for play took: 0.004128
+[2024.02.22-16.43.47:511][536]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.02.22-16.43.47:524][536]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-16.43.47:524][536]PIE: Server logged in
+[2024.02.22-16.43.47:525][536]PIE: Play in editor total start time 0.115 seconds.
+[2024.02.22-16.44.11:867][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.11:867][842]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.44.11:867][842]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.44.11:870][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.44.11:874][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.44.11:883][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.44.11:944][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.11:944][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.02.22-16.44.11:946][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.02.22-16.44.11:955][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.02.22-16.44.12:011][843]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.02.22-16.45.08:232][  6]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.22-16.45.43:051][646]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.02.22-16.45.43:051][646]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.02.22-16.45.51:446][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Floors/SM_Kit_Floor.SM_Kit_Floor
+[2024.02.22-16.45.51:446][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Floors/SM_Kit_Floor.SM_Kit_Floor
+[2024.02.22-16.45.51:447][509]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Floors/SM_Kit_Floor.SM_Kit_Floor as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_7
+[2024.02.22-16.45.54:877][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Floors/SM_Kit_Floor.SM_Kit_Floor
+[2024.02.22-16.45.54:878][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Floors/SM_Kit_Floor.SM_Kit_Floor
+[2024.02.22-16.45.54:878][676]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Floors/SM_Kit_Floor.SM_Kit_Floor as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_9
+[2024.02.22-16.46.52:067][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-16.46.52:079][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.46.52:079][444]PIE: New page: PIE session: MyMap (Feb 22, 2024, 4:46:52 AM)
+[2024.02.22-16.46.52:079][444]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.46.52:088][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008943s)
+[2024.02.22-16.46.52:088][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.008987s)
+[2024.02.22-16.46.52:088][444]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-16.46.52:088][444]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-16.46.52:089][444]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2024.02.22-16.46.52:154][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.22-16.46.52:156][444]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-16.46.52:156][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-16.46.52:156][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.46.52:157][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-16.46.52:157][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-16.46.52:157][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-16.46.52:160][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-16.46.52:174][444]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-16.46.52:174][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.46.52:174][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.46.52:174][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.46.52:175][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.02.22-16.46.52:175][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.02.22-16.46.52:178][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.02.22-16.46.52:178][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.02.22-16.46.52:178][444]LogInit: FAudioDevice initialized.
+[2024.02.22-16.46.52:178][444]LogAudio: Display: Audio Device (ID: 26) registered with world 'MyMap'.
+[2024.02.22-16.46.52:181][444]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-16.46.52:184][444]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-10.46.52
+[2024.02.22-16.46.52:185][444]LogWorld: Bringing up level for play took: 0.004253
+[2024.02.22-16.46.52:187][444]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.22-16.46.52:200][444]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-16.46.52:200][444]PIE: Server logged in
+[2024.02.22-16.46.52:201][444]PIE: Play in editor total start time 0.123 seconds.
+[2024.02.22-16.47.45:119][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.47.45:119][688]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.47.45:119][688]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.47.45:121][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.47.45:126][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.47.45:136][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.47.45:194][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-16.47.45:194][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.02.22-16.47.45:197][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.02.22-16.47.45:202][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.47.45:207][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.02.22-16.47.45:263][689]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: ================================================
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: Total job queries 163, among them cache hits 14 (8.59%)
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: Tracking 149 distinct input hashes that result in 118 distinct outputs (79.19%)
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: RAM used: 1.20 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.22-16.48.32:908][ 19]LogShaderCompilers: Display: ================================================
+[2024.02.22-16.48.33:287][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.22-16.48.33:326][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/MyMap_Auto3
+[2024.02.22-16.48.33:326][ 45]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/MyMap_Auto3726FD86C4DA93703C4B5499F9CD78B7F.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/Autosaves/Game/LearningKit_Games/Maps/MyMap_Auto3.umap'
+[2024.02.22-16.48.33:330][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/MyMap' took 0.103
+[2024.02.22-16.48.33:330][ 45]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.103
+[2024.02.22-16.49.38:506][324]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.22-16.49.38:517][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.49.38:517][324]PIE: New page: PIE session: MyMap (Feb 22, 2024, 4:49:38 AM)
+[2024.02.22-16.49.38:517][324]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.49.38:525][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008491s)
+[2024.02.22-16.49.38:525][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/MyMap.MyMap to /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap (0.008532s)
+[2024.02.22-16.49.38:526][324]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.22-16.49.38:526][324]LogAIModule: Creating AISystem for world MyMap
+[2024.02.22-16.49.38:526][324]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2024.02.22-16.49.38:586][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.22-16.49.38:588][324]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.22-16.49.38:588][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.22-16.49.38:588][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.49.38:589][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.22-16.49.38:589][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.22-16.49.38:589][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.22-16.49.38:591][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.22-16.49.38:605][324]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.22-16.49.38:605][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.49.38:605][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.49.38:605][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.49.38:606][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.02.22-16.49.38:606][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.02.22-16.49.38:609][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.02.22-16.49.38:609][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.02.22-16.49.38:609][324]LogInit: FAudioDevice initialized.
+[2024.02.22-16.49.38:609][324]LogAudio: Display: Audio Device (ID: 27) registered with world 'MyMap'.
+[2024.02.22-16.49.38:611][324]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.22-16.49.38:615][324]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2024.02.22-10.49.38
+[2024.02.22-16.49.38:616][324]LogWorld: Bringing up level for play took: 0.004302
+[2024.02.22-16.49.38:619][324]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.02.22-16.49.38:631][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.22-16.49.38:631][324]PIE: Server logged in
+[2024.02.22-16.49.38:632][324]PIE: Play in editor total start time 0.116 seconds.
+[2024.02.22-16.50.38:068][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.50.38:069][104]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_MyMap
+[2024.02.22-16.50.38:069][104]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.50.38:071][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.50.38:075][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.50.38:086][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.50.38:149][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.50.38:149][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.02.22-16.50.38:152][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.02.22-16.50.38:162][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.22-16.50.38:218][105]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.02.22-16.53.36:033][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.22-16.53.37:219][874]LogSlate: Window 'Save Content' being destroyed
+[2024.02.22-16.53.37:226][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-16.53.37:377][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.22-16.53.37:416][874]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-16.53.37:416][874]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/MyMap477668D5424316E4498CF8BCAB1FA6AF.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Maps/MyMap.umap'
+[2024.02.22-16.53.37:435][874]LogFileHelpers: Saving map 'MyMap' took 0.118
+[2024.02.22-16.53.37:444][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 862 ms)
+[2024.02.22-16.53.37:455][874]AssetCheck: New page: Asset Save: MyMap
+[2024.02.22-16.53.37:455][874]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MyMap.MyMap
+[2024.02.22-16.54.48:504][163]LogStaticMesh: Display: Building static mesh SM_Cloud_B...
+[2024.02.22-16.54.48:571][163]LogStaticMesh: Adjacency [0.00s], tris: 9526, UVs 2
+[2024.02.22-16.54.48:580][163]LogStaticMesh: Clustering [0.01s]. Ratio: 1.013333
+[2024.02.22-16.54.48:581][163]LogStaticMesh: Leaves [0.00s]
+[2024.02.22-16.54.48:645][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.54.48:645][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.54.48:645][166]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_11
+[2024.02.22-16.54.48:663][166]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B) ...
+[2024.02.22-16.54.48:855][166]LogStaticMesh: Reduce [0.27s]
+[2024.02.22-16.54.49:035][166]LogStaticMesh: Fallback 0/4 [0.18s], num tris: 6556
+[2024.02.22-16.54.49:294][166]LogStaticMesh: Fallback 1/4 [0.26s], num tris: 3278
+[2024.02.22-16.54.49:526][166]LogStaticMesh: Fallback 2/4 [0.23s], num tris: 1310
+[2024.02.22-16.54.49:736][166]LogStaticMesh: Fallback 3/4 [0.21s], num tris: 654
+[2024.02.22-16.54.49:741][166]LogStaticMesh: ConstrainClusters:
+[2024.02.22-16.54.49:741][166]LogStaticMesh:   Input: 157 Clusters, 19728 Triangles and 13312 Vertices
+[2024.02.22-16.54.49:741][166]LogStaticMesh:   Output without splits: 157 Clusters, 19728 Triangles and 13670 Vertices
+[2024.02.22-16.54.49:741][166]LogStaticMesh:   Output with splits: 157 Clusters, 19728 Triangles and 13670 Vertices
+[2024.02.22-16.54.49:741][166]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 157, Slow Path Clusters: 0, 1 Material: 157, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.02.22-16.54.49:747][166]LogStaticMesh: WritePages:
+[2024.02.22-16.54.49:747][166]LogStaticMesh:   Root: GPU size: 31804 bytes. 1 Pages. 31804.000 bytes per page (97.058% utilization).
+[2024.02.22-16.54.49:747][166]LogStaticMesh:   Streaming: GPU size: 222284 bytes. 2 Pages (2 with relative encoding). 111142.000 bytes per page (84.795% utilization).
+[2024.02.22-16.54.49:747][166]LogStaticMesh:   Page data disk size: 186672 bytes. Fixup data size: 848 bytes.
+[2024.02.22-16.54.49:747][166]LogStaticMesh:   Total GPU size: 254088 bytes, Total disk size: 187520 bytes.
+[2024.02.22-16.54.49:747][166]LogStaticMesh: Encode [0.01s]
+[2024.02.22-16.54.49:747][166]LogStaticMesh: Nanite build [1.17s]
+
+[2024.02.22-16.54.49:774][166]LogStaticMesh: Built static mesh [1.27s] /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.54.51:344][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.54.51:344][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.54.51:346][227]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_13
+[2024.02.22-16.54.55:912][508]LogMeshUtilities: Finished distance field build in 6.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 52% occupied, 3175 triangles, SM_Cloud_B
+[2024.02.22-16.55.32:941][192]Cmd: DELETE
+[2024.02.22-16.55.32:941][192]Cmd: ACTOR DELETE
+[2024.02.22-16.55.32:945][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.22-16.55.33:006][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.22-16.55.33:009][192]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2024.02.22-16.55.50:059][842]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-16.55.52:879][138]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.RecastNavMesh-Default).
+[2024.02.22-16.58.41:497][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.58.41:497][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.58.41:497][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_15
+[2024.02.22-16.58.42:975][897]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.58.42:975][897]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B
+[2024.02.22-16.58.42:976][897]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_B.SM_Cloud_B as actor: StaticMeshActor /Game/LearningKit_Games/Maps/MyMap.MyMap:PersistentLevel.StaticMeshActor_20
+[2024.02.22-17.01.26:687][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.22-17.01.27:991][906]LogSlate: Window 'Save Content' being destroyed
+[2024.02.22-17.01.27:998][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-17.01.28:161][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.22-17.01.28:200][906]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/MyMap
+[2024.02.22-17.01.28:201][906]LogSavePackage: Moving '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Saved/MyMapEA0C98E54BFE6A0C701D599E0B1A9B56.tmp' to '../../../../../../Users/novosad3/Documents/GitHub/CS415_MP2/Content/LearningKit_Games/Maps/MyMap.umap'
+[2024.02.22-17.01.28:219][906]LogFileHelpers: Saving map 'MyMap' took 0.117
+[2024.02.22-17.01.28:225][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 1.08 sec)
+[2024.02.22-17.01.28:237][906]AssetCheck: New page: Asset Save: MyMap
+[2024.02.22-17.01.28:237][906]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/MyMap.MyMap
+[2024.02.22-17.04.32:312][980]LogDerivedDataCache: C:/Users/novosad3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.235 and deleted 0 files with total size 0 MiB. Scanned 4461 files in 4435 folders with total size 199 MiB.
